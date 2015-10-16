@@ -1,6 +1,9 @@
 == README - updated
 Test rails blog app
 
+Making a second change to test SSH.
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
