@@ -1,7 +1,5 @@
 == README - updated
-Test rails blog app
-
-Making a second change to test SSH.
+Third change. Testing github connect.
 
 
 This README would normally document whatever steps are necessary to get the
